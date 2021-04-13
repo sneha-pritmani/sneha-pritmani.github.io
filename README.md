@@ -1,2 +1,2 @@
 # sneha-pritmani.github.io
-Website
+Website Sneha Pritmani
